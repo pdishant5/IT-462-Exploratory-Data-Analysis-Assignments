@@ -1,1 +1,1 @@
-# IT462 Exploratory Data Analysis Group21
+# IT462 Exploratory Data Analysis Assignments
